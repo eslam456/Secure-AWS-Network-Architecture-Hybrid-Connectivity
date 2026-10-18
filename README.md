@@ -9,7 +9,7 @@ It also includes comprehensive security and logging mechanisms utilizing AWS nat
 
 ## Architecture Diagram
 
-![AWS Hybrid Cloud Architecture Diagram](./Untitled%20Diagram.drawio.png)
+![AWS Hybrid Cloud Architecture Diagram](./Untitled%20Diagram.jpg)
 ---
 
 ## Core Components
