@@ -9,9 +9,7 @@ It also includes comprehensive security and logging mechanisms utilizing AWS nat
 
 ## Architecture Diagram
 
-![AWS Hybrid Cloud Architecture Diagram](./Untitled Diagram.drawio.png)
-*(Note: Ensure the architecture image is uploaded to the repository as `architecture.png` or update the path above accordingly)*
-
+![AWS Hybrid Cloud Architecture Diagram](./Untitled%20Diagram.drawio.png)
 ---
 
 ## Core Components
